@@ -16,3 +16,5 @@ This project requires a computer and internet.
 
 ## Plan for the first party
 Get going with FB.
+
+Hello this is your new collaborator ky266, here are the new additions. 
